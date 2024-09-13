@@ -7,7 +7,7 @@
 
 ## Sobre
 Este projeto foi desenvolvido durante a Imersão DEV promovida pela [**Alura**](https://www.alura.com.br) + **Google**. 
-O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projeto do zero com a ajuda do [Gemine](https://gemini.google.com/) como ferramenta de suporte para auxiliar na criação e organização de projetos de programação com o uso da Inteligência Artifical do Google.
+O objetivo principal foi aprender HTML, CSS e JavaScript e desenvolver um projeto do zero com a ajuda do [Gemini](https://gemini.google.com/) como ferramenta de suporte para auxiliar na criação e organização de projetos de programação com o uso da Inteligência Artifical do Google.
 
 ## O projeto
 
@@ -28,6 +28,7 @@ O projeto foi desenvolvido desenvolvido utilizando as linguagens **HTML**, **CSS
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização e design responsivo.
 - **JavaScript**: Lógica de pesquisa e manipulação de dados.
+- **Google Gemini**: Suporte e sugestões para otimização do projeto.
 
 ## Estrutura do projeto
 
